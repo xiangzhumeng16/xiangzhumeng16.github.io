@@ -1,4 +1,3 @@
-[![PyPI version](https://badge.fury.io/py/image-classifiers.svg)](https://badge.fury.io/py/image-classifiers) [![Build Status](https://travis-ci.com/qubvel/classification_models.svg?branch=master)](https://travis-ci.com/qubvel/classification_models) 
 # Classification models Zoo
 Trained on [ImageNet](http://www.image-net.org/) classification models. [Keras](https://keras.io/).
 
