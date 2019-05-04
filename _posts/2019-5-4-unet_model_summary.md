@@ -2,6 +2,8 @@
 ```python
 from keras.layers import *
 from kereas.models import *
+from kereas.optimizers import *
+
 def build_unet(input_shape, pretrained_weight=None):
     # inputs layer
     inputs = Input(shape=input_shape)
