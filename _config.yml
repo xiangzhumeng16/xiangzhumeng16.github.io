@@ -1,20 +1,17 @@
-name:               "Ink"
-description:        "A minimalistic jekyll theme for humans"
+name:               "XiangzhuMeng16"
+description:        "XiangzhuMeng's personal blog."
 
 url:                ""
-author:             "thinker3197"
-email:              "jhondoe@abc.com"
+author:             "Xiangzhu Meng"
+email:              "xiangzhumeng16@gmail.com"
 gravatar_hash:      "205e460b479e2e5b48aec07710c08d50"
-twitter:            "jhondoe"
-email:              "jhondoe@abc.com"
-github:             "jhondoe"
-pinterest:          "jhondoe"
-linkedin:           "jhondoe"
-facebook:           "jhondoe"
+twitter:            "xiangzhu_meng"
+github:             "xiangzhumeng16"
+facebook:           "xiangzhu_meng"
 
-disqus_shortname:   "thinker3197"
+disqus_shortname:   "xiangzhumeng"
 
-background:         "http://apple.wallpapersfine.com/wallpapers/original/1242x2208/w-5273.jpg"
+background:         ""
 
 paginate:           5
 paginate_path:      "/page:num/"
@@ -28,7 +25,7 @@ nav:
   - name:           "About"
     href:           "/about"
   - name:           "Download"
-    href:           "/releases"
+    href:           "https://codeload.github.com/xiangzhumeng16/xiangzhumeng16.github.io/zip/master"
 
 sass:
   style:            :compressed
