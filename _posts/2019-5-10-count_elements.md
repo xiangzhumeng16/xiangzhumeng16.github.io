@@ -1,4 +1,4 @@
-Matlab counts the number of occurrences of elements
+Counting the number of occurrences of elements in Matlab.
 ```matlab
 len = 100;
 iMax = 10;
