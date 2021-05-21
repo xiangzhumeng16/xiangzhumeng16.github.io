@@ -3,6 +3,6 @@ title: About
 permalink: /about/
 ---
 
-<p class="heavy-title"><a href="http://github.com/xiangzhumeng16/xiangzhumeng16.github.io">Xiangzhu Meng</a> is a simple & minimalistic theme for <a href="http://jekyllrb.com">Jekyll</a>, a static site generator.</p>
+<p class="heavy-title"><a href="http://github.com/xiangzhumeng16/xiangzhumeng16.github.io">Xiangzhu Meng</a> received his BS degree from Anhui University, in 2015. Now he is working towards his PHD degree in School of Computer Science and Technology, Dalian University of Technology, China. He has authored and co-authored some papers in some famous journals, including Knowledge-Based Systems, Neurocomputing, etc. Furthermore, he serves as a reviewer for ACM Transactions on Multimedia Computing Communications and Applications. His research interests include multi-view learning, deep learning, and computing vision.</p>
 
->Designed and developed by [xiangzhumeng16](https://github.com/xiangzhumeng16).
+>Designed and developed by [Xiangzhu Meng](https://github.com/xiangzhumeng16).
